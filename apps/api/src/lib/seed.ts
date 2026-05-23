@@ -1,4 +1,4 @@
-import { readFileSync } from 'fs'
+import { readFileSync, existsSync } from 'fs'
 import { join } from 'path'
 import {
   FloodZoneSchema,
@@ -9,7 +9,11 @@ import {
 } from '@flood-jgc/shared'
 import { z } from 'zod'
 
-const DATA = join(__dirname, '../data')
+const CANDIDATES = [
+  join(__dirname, '../data'),
+  join(process.cwd(), 'apps/api/src/data'),
+]
+const DATA = CANDIDATES.find(existsSync) ?? CANDIDATES[0]
 
 function load<T>(file: string, schema: z.ZodType<T>): T {
   const raw = JSON.parse(readFileSync(join(DATA, file), 'utf-8'))

@@ -3,13 +3,8 @@
   "buildCommand": "npm run build -w apps/web",
   "outputDirectory": "apps/web/dist",
   "rewrites": [
-    { "source": "/api/(.*)", "destination": "/apps/api/src/index.ts" }
+    { "source": "/api/(.*)", "destination": "/api/index" }
   ],
-  "functions": {
-    "apps/api/src/index.ts": {
-      "runtime": "nodejs20.x"
-    }
-  },
   "headers": [
     {
       "source": "/api/(.*)",
