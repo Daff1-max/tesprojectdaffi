@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "JGC-Z01",
+    "name": "Cluster Anggrek",
+    "riskLevel": "high",
+    "riskScore": 56,
+    "elevationMeters": 4.6,
+    "drainageCapacityPercent": 42,
+    "populationEstimate": 3025,
+    "lastFloodDate": "2025-07-31T04:12:29.517Z",
+    "floodFrequencyPerYear": 1.6,
+    "area": 308025,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            106.9365,
+            -6.2185
+          ],
+          [
+            106.9385,
+            -6.2185
+          ],
+          [
+            106.9385,
+            -6.2165
+          ],
+          [
+            106.9365,
+            -6.2165
+          ],
+          [
+            106.9365,
+            -6.2185
+          ]
+        ]
+      ]
+    },
+    "description": "Anggrek adalah klaster hunian di bagian barat JGC."
+  },
+  {
+    "id": "JGC-Z02",
+    "name": "Cluster Bougenville",
+    "riskLevel": "high",
+    "riskScore": 54,
+    "elevationMeters": 3.3,
+    "drainageCapacityPercent": 48,
+    "populationEstimate": 762,
+    "lastFloodDate": "2025-05-05T09:31:19.913Z",
+    "floodFrequencyPerYear": 3,
+    "area": 308025,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            106.94149999999999,
+            -6.2185
+          ],
+          [
+            106.9435,
+            -6.2185
+          ],
+          [
+            106.9435,
+            -6.2165
+          ],
+          [
+            106.94149999999999,
+            -6.2165
+          ],
+          [
+            106.94149999999999,
+            -6.2185
+          ]
+        ]
+      ]
+    },
+    "description": "Bougenville adalah klaster hunian di bagian barat JGC."
+  },
+  {
+    "id": "JGC-Z03",
+    "name": "Cluster Cempaka",
+    "riskLevel": "medium",
+    "riskScore": 47,
+    "elevationMeters": 5.9,
+    "drainageCapacityPercent": 34,
+    "populationEstimate": 898,
+    "lastFloodDate": "2025-05-30T10:30:38.648Z",
+    "floodFrequencyPerYear": 1.8,
+    "area": 308025,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            106.94649999999999,
+            -6.2185
+          ],
+          [
+            106.94850000000001,
+            -6.2185
+          ],
+          [
+            106.94850000000001,
+            -6.2165
+          ],
+          [
+            106.94649999999999,
+            -6.2165
+          ],
+          [
+            106.94649999999999,
+            -6.2185
+          ]
+        ]
+      ]
+    },
+    "description": "Cempaka adalah klaster hunian di bagian barat JGC."
+  },
+  {
+    "id": "JGC-Z04",
+    "name": "Cluster Dahlia",
+    "riskLevel": "high",
+    "riskScore": 65,
+    "elevationMeters": 5.1,
+    "drainageCapacityPercent": 41,
+    "populationEstimate": 3704,
+    "lastFloodDate": "2026-01-17T01:14:45.716Z",
+    "floodFrequencyPerYear": 3.1,
+    "area": 308025,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            106.9515,
+            -6.2185
+          ],
+          [
+            106.9535,
+            -6.2185
+          ],
+          [
+            106.9535,
+            -6.2165
+          ],
+          [
+            106.9515,
+            -6.2165
+          ],
+          [
+            106.9515,
+            -6.2185
+          ]
+        ]
+      ]
+    },
+    "description": "Dahlia adalah klaster hunian di bagian timur JGC."
+  },
+  {
+    "id": "JGC-Z05",
+    "name": "Cluster Edelweis",
+    "riskLevel": "high",
+    "riskScore": 57,
+    "elevationMeters": 3.6,
+    "drainageCapacityPercent": 61,
+    "populationEstimate": 3195,
+    "lastFloodDate": "2025-05-09T20:31:13.320Z",
+    "floodFrequencyPerYear": 2.2,
+    "area": 308025,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            106.95649999999999,
+            -6.2185
+          ],
+          [
+            106.9585,
+            -6.2185
+          ],
+          [
+            106.9585,
+            -6.2165
+          ],
+          [
+            106.95649999999999,
+            -6.2165
+          ],
+          [
+            106.95649999999999,
+            -6.2185
+          ]
+        ]
+      ]
+    },
+    "description": "Edelweis adalah klaster hunian di bagian timur JGC."
+  },
+  {
+    "id": "JGC-Z06",
+    "name": "Cluster Flamboyan",
+    "riskLevel": "high",
+    "riskScore": 53,
+    "elevationMeters": 3.7,
+    "drainageCapacityPercent": 38,
+    "populationEstimate": 1140,
+    "lastFloodDate": "2025-05-03T01:59:38.867Z",
+    "floodFrequencyPerYear": 2.2,
+    "area": 308025,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            106.9365,
+            -6.2135
+          ],
+          [
+            106.9385,
+            -6.2135
+          ],
+          [
+            106.9385,
+            -6.2115
+          ],
+          [
+            106.9365,
+            -6.2115
+          ],
+          [
+            106.9365,
+            -6.2135
+          ]
+        ]
+      ]
+    },
+    "description": "Flamboyan adalah klaster hunian di bagian barat JGC."
+  },
+  {
+    "id": "JGC-Z07",
+    "name": "Cluster Gardenia",
+    "riskLevel": "high",
+    "riskScore": 60,
+    "elevationMeters": 2.9,
+    "drainageCapacityPercent": 60,
+    "populationEstimate": 1908,
+    "lastFloodDate": "2025-10-30T03:42:15.712Z",
+    "floodFrequencyPerYear": 3.8,
+    "area": 308025,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            106.94149999999999,
+            -6.2135
+          ],
+          [
+            106.9435,
+            -6.2135
+          ],
+          [
+            106.9435,
+            -6.2115
+          ],
+          [
+            106.94149999999999,
+            -6.2115
+          ],
+          [
+            106.94149999999999,
+            -6.2135
+          ]
+        ]
+      ]
+    },
+    "description": "Gardenia adalah klaster hunian di bagian barat JGC."
+  },
+  {
+    "id": "JGC-Z08",
+    "name": "Cluster Heliconia",
+    "riskLevel": "high",
+    "riskScore": 54,
+    "elevationMeters": 3.5,
+    "drainageCapacityPercent": 56,
+    "populationEstimate": 2015,
+    "lastFloodDate": "2025-10-09T14:44:29.546Z",
+    "floodFrequencyPerYear": 2.4,
+    "area": 308025,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            106.94649999999999,
+            -6.2135
+          ],
+          [
+            106.94850000000001,
+            -6.2135
+          ],
+          [
+            106.94850000000001,
+            -6.2115
+          ],
+          [
+            106.94649999999999,
+            -6.2115
+          ],
+          [
+            106.94649999999999,
+            -6.2135
+          ]
+        ]
+      ]
+    },
+    "description": "Heliconia adalah klaster hunian di bagian barat JGC."
+  },
+  {
+    "id": "JGC-Z09",
+    "name": "Cluster Iris",
+    "riskLevel": "high",
+    "riskScore": 66,
+    "elevationMeters": 4,
+    "drainageCapacityPercent": 33,
+    "populationEstimate": 1441,
+    "lastFloodDate": "2025-07-22T06:25:55.557Z",
+    "floodFrequencyPerYear": 4.3,
+    "area": 308025,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            106.9515,
+            -6.2135
+          ],
+          [
+            106.9535,
+            -6.2135
+          ],
+          [
+            106.9535,
+            -6.2115
+          ],
+          [
+            106.9515,
+            -6.2115
+          ],
+          [
+            106.9515,
+            -6.2135
+          ]
+        ]
+      ]
+    },
+    "description": "Iris adalah klaster hunian di bagian timur JGC."
+  },
+  {
+    "id": "JGC-Z10",
+    "name": "Cluster Jasmine",
+    "riskLevel": "high",
+    "riskScore": 61,
+    "elevationMeters": 4.8,
+    "drainageCapacityPercent": 35,
+    "populationEstimate": 1366,
+    "lastFloodDate": "2025-09-15T22:41:15.804Z",
+    "floodFrequencyPerYear": 3.7,
+    "area": 308025,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            106.95649999999999,
+            -6.2135
+          ],
+          [
+            106.9585,
+            -6.2135
+          ],
+          [
+            106.9585,
+            -6.2115
+          ],
+          [
+            106.95649999999999,
+            -6.2115
+          ],
+          [
+            106.95649999999999,
+            -6.2135
+          ]
+        ]
+      ]
+    },
+    "description": "Jasmine adalah klaster hunian di bagian timur JGC."
+  },
+  {
+    "id": "JGC-Z11",
+    "name": "Cluster Kenanga",
+    "riskLevel": "medium",
+    "riskScore": 35,
+    "elevationMeters": 9.5,
+    "drainageCapacityPercent": 83,
+    "populationEstimate": 4464,
+    "lastFloodDate": "2024-06-03T13:20:07.084Z",
+    "floodFrequencyPerYear": 0.4,
+    "area": 308025,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            106.9365,
+            -6.2085
+          ],
+          [
+            106.9385,
+            -6.2085
+          ],
+          [
+            106.9385,
+            -6.2065
+          ],
+          [
+            106.9365,
+            -6.2065
+          ],
+          [
+            106.9365,
+            -6.2085
+          ]
+        ]
+      ]
+    },
+    "description": "Kenanga adalah klaster hunian di bagian barat JGC."
+  },
+  {
+    "id": "JGC-Z12",
+    "name": "Cluster Lili",
+    "riskLevel": "medium",
+    "riskScore": 29,
+    "elevationMeters": 6.8,
+    "drainageCapacityPercent": 62,
+    "populationEstimate": 702,
+    "lastFloodDate": "2024-10-22T07:42:46.090Z",
+    "floodFrequencyPerYear": 0,
+    "area": 308025,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            106.94149999999999,
+            -6.2085
+          ],
+          [
+            106.9435,
+            -6.2085
+          ],
+          [
+            106.9435,
+            -6.2065
+          ],
+          [
+            106.94149999999999,
+            -6.2065
+          ],
+          [
+            106.94149999999999,
+            -6.2085
+          ]
+        ]
+      ]
+    },
+    "description": "Lili adalah klaster hunian di bagian barat JGC."
+  },
+  {
+    "id": "JGC-Z13",
+    "name": "Cluster Melati",
+    "riskLevel": "low",
+    "riskScore": 22,
+    "elevationMeters": 10.8,
+    "drainageCapacityPercent": 67,
+    "populationEstimate": 630,
+    "lastFloodDate": "2025-09-26T03:11:25.497Z",
+    "floodFrequencyPerYear": 0.7,
+    "area": 308025,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            106.94649999999999,
+            -6.2085
+          ],
+          [
+            106.94850000000001,
+            -6.2085
+          ],
+          [
+            106.94850000000001,
+            -6.2065
+          ],
+          [
+            106.94649999999999,
+            -6.2065
+          ],
+          [
+            106.94649999999999,
+            -6.2085
+          ]
+        ]
+      ]
+    },
+    "description": "Melati adalah klaster hunian di bagian barat JGC."
+  },
+  {
+    "id": "JGC-Z14",
+    "name": "Cluster Nusa Indah",
+    "riskLevel": "high",
+    "riskScore": 67,
+    "elevationMeters": 2.5,
+    "drainageCapacityPercent": 35,
+    "populationEstimate": 3685,
+    "lastFloodDate": "2025-06-01T00:09:20.703Z",
+    "floodFrequencyPerYear": 2.2,
+    "area": 308025,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            106.9515,
+            -6.2085
+          ],
+          [
+            106.9535,
+            -6.2085
+          ],
+          [
+            106.9535,
+            -6.2065
+          ],
+          [
+            106.9515,
+            -6.2065
+          ],
+          [
+            106.9515,
+            -6.2085
+          ]
+        ]
+      ]
+    },
+    "description": "Nusa Indah adalah klaster hunian di bagian timur JGC."
+  },
+  {
+    "id": "JGC-Z15",
+    "name": "Cluster Orchid",
+    "riskLevel": "high",
+    "riskScore": 53,
+    "elevationMeters": 5.8,
+    "drainageCapacityPercent": 39,
+    "populationEstimate": 1619,
+    "lastFloodDate": "2025-10-29T16:55:23.798Z",
+    "floodFrequencyPerYear": 2.6,
+    "area": 308025,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            106.95649999999999,
+            -6.2085
+          ],
+          [
+            106.9585,
+            -6.2085
+          ],
+          [
+            106.9585,
+            -6.2065
+          ],
+          [
+            106.95649999999999,
+            -6.2065
+          ],
+          [
+            106.95649999999999,
+            -6.2085
+          ]
+        ]
+      ]
+    },
+    "description": "Orchid adalah klaster hunian di bagian timur JGC."
+  },
+  {
+    "id": "JGC-Z16",
+    "name": "Cluster Palm Hill",
+    "riskLevel": "medium",
+    "riskScore": 38,
+    "elevationMeters": 5.2,
+    "drainageCapacityPercent": 92,
+    "populationEstimate": 3259,
+    "lastFloodDate": "2024-08-18T21:49:36.598Z",
+    "floodFrequencyPerYear": 0.6,
+    "area": 308025,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            106.9365,
+            -6.2035
+          ],
+          [
+            106.9385,
+            -6.2035
+          ],
+          [
+            106.9385,
+            -6.2015
+          ],
+          [
+            106.9365,
+            -6.2015
+          ],
+          [
+            106.9365,
+            -6.2035
+          ]
+        ]
+      ]
+    },
+    "description": "Palm Hill adalah klaster hunian di bagian barat JGC."
+  },
+  {
+    "id": "JGC-Z17",
+    "name": "Cluster Queens",
+    "riskLevel": "low",
+    "riskScore": 25,
+    "elevationMeters": 8,
+    "drainageCapacityPercent": 87,
+    "populationEstimate": 875,
+    "lastFloodDate": "2023-10-25T07:20:22.199Z",
+    "floodFrequencyPerYear": 0.9,
+    "area": 308025,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            106.94149999999999,
+            -6.2035
+          ],
+          [
+            106.9435,
+            -6.2035
+          ],
+          [
+            106.9435,
+            -6.2015
+          ],
+          [
+            106.94149999999999,
+            -6.2015
+          ],
+          [
+            106.94149999999999,
+            -6.2035
+          ]
+        ]
+      ]
+    },
+    "description": "Queens adalah klaster hunian di bagian barat JGC."
+  },
+  {
+    "id": "JGC-Z18",
+    "name": "Cluster Rosewood",
+    "riskLevel": "low",
+    "riskScore": 25,
+    "elevationMeters": 11.2,
+    "drainageCapacityPercent": 76,
+    "populationEstimate": 2145,
+    "lastFloodDate": "2024-04-12T12:39:45.000Z",
+    "floodFrequencyPerYear": 0.5,
+    "area": 308025,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            106.94649999999999,
+            -6.2035
+          ],
+          [
+            106.94850000000001,
+            -6.2035
+          ],
+          [
+            106.94850000000001,
+            -6.2015
+          ],
+          [
+            106.94649999999999,
+            -6.2015
+          ],
+          [
+            106.94649999999999,
+            -6.2035
+          ]
+        ]
+      ]
+    },
+    "description": "Rosewood adalah klaster hunian di bagian barat JGC."
+  },
+  {
+    "id": "JGC-Z19",
+    "name": "Cluster Seruni",
+    "riskLevel": "high",
+    "riskScore": 70,
+    "elevationMeters": 4.2,
+    "drainageCapacityPercent": 36,
+    "populationEstimate": 3823,
+    "lastFloodDate": "2026-02-19T08:31:46.648Z",
+    "floodFrequencyPerYear": 3.5,
+    "area": 308025,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            106.9515,
+            -6.2035
+          ],
+          [
+            106.9535,
+            -6.2035
+          ],
+          [
+            106.9535,
+            -6.2015
+          ],
+          [
+            106.9515,
+            -6.2015
+          ],
+          [
+            106.9515,
+            -6.2035
+          ]
+        ]
+      ]
+    },
+    "description": "Seruni adalah klaster hunian di bagian timur JGC."
+  },
+  {
+    "id": "JGC-Z20",
+    "name": "Cluster Tulip",
+    "riskLevel": "high",
+    "riskScore": 67,
+    "elevationMeters": 2.7,
+    "drainageCapacityPercent": 30,
+    "populationEstimate": 2795,
+    "lastFloodDate": "2025-10-12T21:11:46.309Z",
+    "floodFrequencyPerYear": 2.7,
+    "area": 308025,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            106.95649999999999,
+            -6.2035
+          ],
+          [
+            106.9585,
+            -6.2035
+          ],
+          [
+            106.9585,
+            -6.2015
+          ],
+          [
+            106.95649999999999,
+            -6.2015
+          ],
+          [
+            106.95649999999999,
+            -6.2035
+          ]
+        ]
+      ]
+    },
+    "description": "Tulip adalah klaster hunian di bagian timur JGC."
+  },
+  {
+    "id": "JGC-Z21",
+    "name": "Cluster Umbrella Tree",
+    "riskLevel": "medium",
+    "riskScore": 33,
+    "elevationMeters": 5.1,
+    "drainageCapacityPercent": 75,
+    "populationEstimate": 648,
+    "lastFloodDate": "2023-10-01T05:53:36.837Z",
+    "floodFrequencyPerYear": 0.9,
+    "area": 308025,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            106.9365,
+            -6.1985
+          ],
+          [
+            106.9385,
+            -6.1985
+          ],
+          [
+            106.9385,
+            -6.1965
+          ],
+          [
+            106.9365,
+            -6.1965
+          ],
+          [
+            106.9365,
+            -6.1985
+          ]
+        ]
+      ]
+    },
+    "description": "Umbrella Tree adalah klaster hunian di bagian barat JGC."
+  },
+  {
+    "id": "JGC-Z22",
+    "name": "Cluster Violet",
+    "riskLevel": "medium",
+    "riskScore": 32,
+    "elevationMeters": 10.8,
+    "drainageCapacityPercent": 94,
+    "populationEstimate": 3702,
+    "lastFloodDate": "2025-03-09T13:26:23.136Z",
+    "floodFrequencyPerYear": 1.4,
+    "area": 308025,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            106.94149999999999,
+            -6.1985
+          ],
+          [
+            106.9435,
+            -6.1985
+          ],
+          [
+            106.9435,
+            -6.1965
+          ],
+          [
+            106.94149999999999,
+            -6.1965
+          ],
+          [
+            106.94149999999999,
+            -6.1985
+          ]
+        ]
+      ]
+    },
+    "description": "Violet adalah klaster hunian di bagian barat JGC."
+  },
+  {
+    "id": "JGC-Z23",
+    "name": "Cluster Wisteria",
+    "riskLevel": "low",
+    "riskScore": 25,
+    "elevationMeters": 11.2,
+    "drainageCapacityPercent": 82,
+    "populationEstimate": 1848,
+    "lastFloodDate": "2025-10-05T02:40:14.506Z",
+    "floodFrequencyPerYear": 1.1,
+    "area": 308025,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            106.94649999999999,
+            -6.1985
+          ],
+          [
+            106.94850000000001,
+            -6.1985
+          ],
+          [
+            106.94850000000001,
+            -6.1965
+          ],
+          [
+            106.94649999999999,
+            -6.1965
+          ],
+          [
+            106.94649999999999,
+            -6.1985
+          ]
+        ]
+      ]
+    },
+    "description": "Wisteria adalah klaster hunian di bagian barat JGC."
+  },
+  {
+    "id": "JGC-Z24",
+    "name": "Cluster Xanthe",
+    "riskLevel": "high",
+    "riskScore": 61,
+    "elevationMeters": 5.5,
+    "drainageCapacityPercent": 45,
+    "populationEstimate": 3248,
+    "lastFloodDate": "2026-04-14T03:51:59.041Z",
+    "floodFrequencyPerYear": 3.1,
+    "area": 308025,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            106.9515,
+            -6.1985
+          ],
+          [
+            106.9535,
+            -6.1985
+          ],
+          [
+            106.9535,
+            -6.1965
+          ],
+          [
+            106.9515,
+            -6.1965
+          ],
+          [
+            106.9515,
+            -6.1985
+          ]
+        ]
+      ]
+    },
+    "description": "Xanthe adalah klaster hunian di bagian timur JGC."
+  },
+  {
+    "id": "JGC-Z25",
+    "name": "Cluster Yucca",
+    "riskLevel": "high",
+    "riskScore": 70,
+    "elevationMeters": 4.4,
+    "drainageCapacityPercent": 31,
+    "populationEstimate": 4206,
+    "lastFloodDate": "2025-11-29T16:49:44.741Z",
+    "floodFrequencyPerYear": 3,
+    "area": 308025,
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            106.95649999999999,
+            -6.1985
+          ],
+          [
+            106.9585,
+            -6.1985
+          ],
+          [
+            106.9585,
+            -6.1965
+          ],
+          [
+            106.95649999999999,
+            -6.1965
+          ],
+          [
+            106.95649999999999,
+            -6.1985
+          ]
+        ]
+      ]
+    },
+    "description": "Yucca adalah klaster hunian di bagian timur JGC."
+  }
+]

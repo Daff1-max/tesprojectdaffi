@@ -1,0 +1,77 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-base:       #0f1117;
+  --bg-surface:    #171b26;
+  --bg-elevated:   #1e2333;
+  --bg-border:     #2a3045;
+
+  --risk-low:      #22c55e;
+  --risk-medium:   #eab308;
+  --risk-high:     #f97316;
+  --risk-critical: #ef4444;
+
+  --accent-primary:  #3b82f6;
+  --accent-muted:    #1d4ed8;
+
+  --text-primary:   #f1f5f9;
+  --text-secondary: #94a3b8;
+  --text-muted:     #475569;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background: var(--bg-base);
+  color: var(--text-primary);
+  font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+}
+
+/* MapLibre overrides */
+.maplibregl-map {
+  font-family: 'Plus Jakarta Sans', system-ui, sans-serif !important;
+}
+.maplibregl-popup-content {
+  background: var(--bg-surface) !important;
+  color: var(--text-primary) !important;
+  border: 1px solid var(--bg-border) !important;
+  border-radius: 8px !important;
+  padding: 0 !important;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.5) !important;
+}
+.maplibregl-popup-tip {
+  display: none !important;
+}
+.maplibregl-ctrl-group {
+  background: var(--bg-surface) !important;
+  border: 1px solid var(--bg-border) !important;
+}
+.maplibregl-ctrl-group button {
+  color: var(--text-secondary) !important;
+}
+.maplibregl-ctrl-group button:hover {
+  background: var(--bg-elevated) !important;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 4px; height: 4px; }
+::-webkit-scrollbar-track { background: var(--bg-base); }
+::-webkit-scrollbar-thumb { background: var(--bg-border); border-radius: 2px; }
+::-webkit-scrollbar-thumb:hover { background: var(--text-muted); }
+
+/* Pulse for critical sensor */
+@keyframes sensor-pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.4; }
+}
+.sensor-pulse { animation: sensor-pulse 1.5s ease-in-out infinite; }
+
+/* Tabular nums for metrics */
+.tabular-nums { font-variant-numeric: tabular-nums; }
