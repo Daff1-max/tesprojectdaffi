@@ -8,12 +8,12 @@
     "affectedZoneIds": [
       "JGC-Z01",
       "JGC-Z02",
+      "JGC-Z03",
       "JGC-Z04",
-      "JGC-Z05",
-      "JGC-Z06",
       "JGC-Z07",
       "JGC-Z08",
-      "JGC-Z09"
+      "JGC-Z10",
+      "JGC-Z14"
     ],
     "rainfallMmPerDay": 187,
     "estimatedLossMillionRupiah": 2450,
@@ -30,9 +30,9 @@
     "affectedZoneIds": [
       "JGC-Z01",
       "JGC-Z02",
+      "JGC-Z03",
       "JGC-Z04",
-      "JGC-Z05",
-      "JGC-Z06"
+      "JGC-Z07"
     ],
     "rainfallMmPerDay": 130,
     "estimatedLossMillionRupiah": 870,
